@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,50 @@ Yes it is!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+# Welcome TechSprint 👋
+
+Hello Team **TechSprint** from **Adichunchanagiri Institute of Technology, Chikmagalur**,
+
+Welcome to the Hackathon! We're excited to have you on board and can't wait to see what you'll build under the theme **"Digital solutions for rural education"** 
+
+## Team Details
+
+- **Team Number:** 58  
+- **Team Name:** TechSprint
+- **Team Leader:** Rakshitha M R  
+- **Email:** rakshithamr10@gmail.com  
+- **Phone:** 9019388203  
+
+### Team Members:
+- Pragathi H R 
+- Sai Shivangi T 
+- Sneha D C 
+
+## Problem Statement
+
+> **AI-powered auto-grading and student evaluation system**
+
+---
+
+### Let's Get Started 
+
+This repository has been set up for your hackathon project. Use it to manage your code, collaborate, and share your progress.
+
+**Important Guidelines - Please Read Carefully**
+
+- Do **not** make any commits **before the allotted start date and time**. Early commits may result in getting caught.
+- Commit your work **regularly** to showcase your progress throughout the hackathon.
+
+- Maintain **professionalism and integrity** at all times. Any form of plagiarism or rule-breaking will lead to strict action.
+
+Let's keep it fair, fun, and impactful! 
+---
+
+**Good luck, Team TechSprint! Happy coding!**
+
+If you need any support during the hackathon, don't hesitate to reach out to the co-ordinators.
+
+Cheers,  
+_Advaya Hackathon Team_
+>>>>>>> efeb9d264baf2298c70073650ae2e77128d7e7f9
